@@ -1,0 +1,6 @@
+{
+  "static_url": "http://localhost:8082/",
+  "api_url": "http://localhost:3001/api/v1/",
+  "theme_color": "#27901a",
+  "background_color": "#f5f5f5f1"
+}
